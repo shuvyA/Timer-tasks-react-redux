@@ -1,9 +1,6 @@
-// store
 
 import { createStore, combineReducers  } from 'redux';
-// import placeReducer from './reducers/placeReducer';
 import tasks from './reducers/taskReducer';
-
 
 
 
